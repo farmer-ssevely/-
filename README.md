@@ -1,5 +1,9 @@
 ### 2019' Yonsei Data Science Contest 연세대학교 데이터사이언스 경진대회
-teammate : Sejung Kim(김세정) / Mintae Choi(최민태)
+teammate : 
+연세대학교 응용통계학과 Sejung Kim(김세정)
+연세대학교 응용통계학과 Mintae Choi(최민태)
 * * *
 #### 맛있는 아이스크림
 사용 데이터 : NICE 지니데이터 _ 영수증 단위 데이터
+분석 주제 : 아이스크림 시장 분석과 인사이트 도출을 통한 마케팅 제안 (연관성 분석 사용)
+수상 결과 : 최우수상 (150만원)
